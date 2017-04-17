@@ -1,4 +1,4 @@
-### Java Coding Guidelines
+## Java Coding Guidelines
 ##### 1. Naming Conventions
  * Class Name - UpperCamelCase and typically a noun or noun phrases.
  * Method Name - lowerCamelCase and typically a verb or verb phrases.

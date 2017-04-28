@@ -14,7 +14,7 @@
 * CMD: git add <some-file> || git commit -m"message
 
 * Push your feature branch to central repository( For backup and for intial access to other developers).
-* CMD: git push
+* CMD: git push origin branch-name
 
 #### 2. Once you are done working on the feature, push your code and file a pull request in GIT GUI asking to merge new-feature into master.
 * CMD: git push
